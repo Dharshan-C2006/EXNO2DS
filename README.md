@@ -1,4 +1,4 @@
-# EXNO2DS
+![image](https://github.com/smriti1910/EXNO2DS/assets/133334803/76f9766e-e17a-46d2-9d2b-00bd6de87dec)# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -23,7 +23,22 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+
+       ![exp2 ss1](https://github.com/smriti1910/EXNO2DS/assets/133334803/1a1085bb-4e9b-4a44-8e97-3e338228c956)
+      ![exp2 ss2](https://github.com/smriti1910/EXNO2DS/assets/133334803/7b0f787a-6a7e-45a3-bc77-2c48fa68002b)
+      ![exp2 ss3](https://github.com/smriti1910/EXNO2DS/assets/133334803/23b9867a-8df1-4197-956c-2bab8363038a)
+      ![exp2 ss4](https://github.com/smriti1910/EXNO2DS/assets/133334803/96f0adb0-df4b-4821-b1c1-9b50f7dc915f)
+      ![exp2 ss5](https://github.com/smriti1910/EXNO2DS/assets/133334803/85849453-1f01-4d84-ae4c-26b5c8dc3577)
+      ![exp2 ss6](https://github.com/smriti1910/EXNO2DS/assets/133334803/37aa0bdc-96af-486c-8327-977a2751b9fb)
+      ![exp2 ss7](https://github.com/smriti1910/EXNO2DS/assets/133334803/21de090f-ec76-471e-ac28-3aef0324666d)
+      ![exp2 ss8](https://github.com/smriti1910/EXNO2DS/assets/133334803/5d645eee-9990-43e1-8b5c-1d781f248407)
+      ![exp2 ss9](https://github.com/smriti1910/EXNO2DS/assets/133334803/320d6b88-0cd8-48ac-9a39-dd66a21f3b32)
+      ![exp2 ss10](https://github.com/smriti1910/EXNO2DS/assets/133334803/49e11b80-141e-4ff8-964c-bbc0432f5506)
+      ![exp2 ss11](https://github.com/smriti1910/EXNO2DS/assets/133334803/dff0316d-bad9-4aab-b1f6-1426aab28a1f)
+      ![exp2 ss12](https://github.com/smriti1910/EXNO2DS/assets/133334803/49c973aa-e674-4eef-8151-dd28119b5eed)
+      ![exp2 ss13](https://github.com/smriti1910/EXNO2DS/assets/133334803/a7819ed2-7352-43a0-a9bd-c3b2578fb005)
+
+
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus  Exploratory Data Analysis is performed on the given data set.
