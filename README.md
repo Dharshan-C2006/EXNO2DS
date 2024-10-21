@@ -24,19 +24,31 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 # CODING AND OUTPUT
-![exp2 ss1](https://github.com/smriti1910/EXNO2DS/assets/133334803/1a1085bb-4e9b-4a44-8e97-3e338228c956)
-      ![exp2 ss2](https://github.com/smriti1910/EXNO2DS/assets/133334803/7b0f787a-6a7e-45a3-bc77-2c48fa68002b)
-      ![exp2 ss3](https://github.com/smriti1910/EXNO2DS/assets/133334803/23b9867a-8df1-4197-956c-2bab8363038a)
-      ![exp2 ss4](https://github.com/smriti1910/EXNO2DS/assets/133334803/96f0adb0-df4b-4821-b1c1-9b50f7dc915f)
-      ![exp2 ss5](https://github.com/smriti1910/EXNO2DS/assets/133334803/85849453-1f01-4d84-ae4c-26b5c8dc3577)
-      ![exp2 ss6](https://github.com/smriti1910/EXNO2DS/assets/133334803/37aa0bdc-96af-486c-8327-977a2751b9fb)
-      ![exp2 ss7](https://github.com/smriti1910/EXNO2DS/assets/133334803/21de090f-ec76-471e-ac28-3aef0324666d)
-      ![exp2 ss8](https://github.com/smriti1910/EXNO2DS/assets/133334803/5d645eee-9990-43e1-8b5c-1d781f248407)
-      ![exp2 ss9](https://github.com/smriti1910/EXNO2DS/assets/133334803/320d6b88-0cd8-48ac-9a39-dd66a21f3b32)
-      ![exp2 ss10](https://github.com/smriti1910/EXNO2DS/assets/133334803/49e11b80-141e-4ff8-964c-bbc0432f5506)
-      ![exp2 ss11](https://github.com/smriti1910/EXNO2DS/assets/133334803/dff0316d-bad9-4aab-b1f6-1426aab28a1f)
-      ![exp2 ss12](https://github.com/smriti1910/EXNO2DS/assets/133334803/49c973aa-e674-4eef-8151-dd28119b5eed)
-      ![exp2 ss13](https://github.com/smriti1910/EXNO2DS/assets/133334803/a7819ed2-7352-43a0-a9bd-c3b2578fb005)
+
+
+![Screenshot 2024-10-21 191403](https://github.com/user-attachments/assets/109b5cb6-6ef7-4a41-994a-849e9bc2821e)
+
+![Screenshot 2024-10-21 191416](https://github.com/user-attachments/assets/35d5523b-e841-4164-a7e8-3118a2bb6e75)
+![Screenshot 2024-10-21 191429](https://github.com/user-attachments/assets/9d5b0192-3c09-45ae-aba7-4488e948eef4)
+
+![Screenshot 2024-10-21 191447](https://github.com/user-attachments/assets/0f0729bc-d995-49a2-9bbd-6387ef2aa806)
+
+![Screenshot 2024-10-21 191500](https://github.com/user-attachments/assets/8cb8c44e-1166-4e46-a33e-385da27488ec)
+
+![Screenshot 2024-10-21 191513](https://github.com/user-attachments/assets/1982a9c1-e82a-4eb6-b2a4-b4b0065b7b66)
+![Screenshot 2024-10-21 191522](https://github.com/user-attachments/assets/ce7f8e92-2e62-4697-b79d-1870ff6c4086)
+![Screenshot 2024-10-21 191535](https://github.com/user-attachments/assets/67594797-f3ec-47d3-9895-5a2dd8b3ef27)
+![Screenshot 2024-10-21 191546](https://github.com/user-attachments/assets/36815326-f17d-4b65-8a99-d2761275d328)
+![Screenshot 2024-10-21 191601](https://github.com/user-attachments/assets/c7027baa-4c61-4d4a-9860-e4d87e7d2e5e)
+![Screenshot 2024-10-21 191611](https://github.com/user-attachments/assets/a6680e9a-8b09-4870-8e8e-5430d0a6bbfd)
+
+![Screenshot 2024-10-21 191625](https://github.com/user-attachments/assets/476c5515-0b9e-4974-9811-fc2b681a56f7)
+
+![Screenshot 2024-10-21 191642](https://github.com/user-attachments/assets/3f63f90d-2a31-4526-b6c8-466202eb6d86)
+
+![Screenshot 2024-10-21 191651](https://github.com/user-attachments/assets/a3d9fe16-6260-45a6-bc84-93da23ce432f)
+
+
 
 
 
